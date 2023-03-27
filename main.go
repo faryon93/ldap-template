@@ -5,8 +5,8 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/faryon93/autosig/directory"
-	v1 "github.com/faryon93/autosig/v1"
+	"github.com/faryon93/ldap-template/directory"
+	v1 "github.com/faryon93/ldap-template/v1"
 
 	"github.com/faryon93/util"
 	"github.com/gorilla/mux"

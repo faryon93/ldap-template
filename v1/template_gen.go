@@ -1,7 +1,7 @@
 package v1
 
 import (
-	"github.com/faryon93/autosig/directory"
+	"github.com/faryon93/ldap-template/directory"
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"
 	"io"
